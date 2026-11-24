@@ -26,8 +26,20 @@ I am a Computer Science graduate with a Software Engineering background, focused
 
 ## Featured QA Projects
 
-### [Automation Web Site](https://github.com/mohamedt2710/automation-web-site)
-A web automation practice repository.
+### [QA Manual Testing Portfolio](https://github.com/mohamedt2710/qa-manual-testing-portfolio)
+I documented my manual testing work, including test cases, bug reports, and a test summary.
+
+### [API Testing with Postman](https://github.com/mohamedt2710/api-testing-postman)
+I tested the Restful Booker API with Postman collections, assertions, and negative tests.
+
+### [Swag Labs UI Automation](https://github.com/mohamedt2710/saucedemo-ui-automation)
+I automated key Swag Labs flows with Selenium and Java, including login, cart, and checkout.
+
+### [Demo Web Shop Manual Testing](https://github.com/mohamedt2710/demowebshop-manual-testing)
+I tested a demo store's customer journey, from registration and search through checkout.
+
+### [Playwright Learning (Java)](https://github.com/mohamedt2710/playwright-learning-java)
+I am learning Playwright with Java through a few small UI tests.
 
 ---
 
