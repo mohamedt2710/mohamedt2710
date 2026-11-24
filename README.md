@@ -7,7 +7,7 @@ I am a Computer Science graduate with a Software Engineering background, focused
 - 🔍 Interested in **Manual Testing, Functional Testing, Regression Testing, and API Testing**.
 - 🧪 Experienced in designing test scenarios, writing test cases, executing tests, and documenting reproducible defects.
 - 🛠️ Tools and technologies: **Postman, Selenium WebDriver, Java, Jira, SQL, Git, and GitHub**.
-- 🌱 Currently expanding my automation skills with **Playwright and TypeScript**.
+- 🌱 Currently expanding my automation skills with **Playwright (with Java)**.
 - 🤝 Open to opportunities as a **Junior QA Engineer / Software Testing Engineer**.
 
 ---
@@ -22,12 +22,9 @@ I am a Computer Science graduate with a Software Engineering background, focused
 | API Testing | Postman Collections |
 | Database Testing Basics | SQL |
 | QA Process | SDLC, STLC, Agile |
-| Automation Learning | Playwright, TypeScript |
+| Automation Learning | Playwright (Java) |
 
 ## Featured QA Projects
-
-### [QA Engineering Portfolio](https://github.com/mohamedt2710/QA-Engineering-Portfolio)
-A collection of QA documentation and practical testing work, including test planning, test cases, API testing resources, and defect-reporting templates.
 
 ### [Automation Web Site](https://github.com/mohamedt2710/automation-web-site)
 A web automation practice repository.
